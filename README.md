@@ -4,15 +4,14 @@ This repository contains the codebase for running an interior design application
 
 ## Project Structure
 
+```bash
 Interior-Design-On-TensorDock/
 
 ├── stable-diffusion-webui/ # Contains the Automatic1111 WebUI code
-
 ├── streamlit-app/ # Contains the Streamlit app code
-
 │ └── app.py # Main Streamlit app script
-
 └── start_server.sh # Shell script to start both WebUI and Streamlit
+```
 
 ## Setup Instructions
 
