@@ -25,7 +25,7 @@ Interior-Design-On-TensorDock/
    ```bash
    git clone https://github.com/xeeshanajmal/Interior-Design-On-TensorDock.git
    cd Interior-Design-On-TensorDock
-   `
+   ```
 
 2. **Install Dependencies**:
 
