@@ -17,4 +17,23 @@ This repository contains the codebase for running an interior design application
    ```bash
    git clone https://github.com/xeeshanajmal/Interior-Design-On-TensorDock.git
    cd Interior-Design-On-TensorDock
+   `
 
+2. **Install Dependencies**:
+
+```bash
+
+cd stable-diffusion-webui
+bash install.sh # Follow the WebUI installation steps
+```
+
+3. **Start Server**:
+
+```bash
+./start_server.sh
+```
+
+## Streamlit App Features
+- Upload an image or use camera input to capture a room.
+- Select room type and style for the generated design.
+- Generate an AI-designed image using Stable Diffusion.
