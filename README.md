@@ -4,3 +4,17 @@ This repository contains the codebase for running an interior design application
 
 ## Project Structure
 📁 Interior-Design-On-TensorDock/ ├── 📁 stable-diffusion-webui/ # Contains the Automatic1111 WebUI code ├── 📁 streamlit-app/ # Contains the Streamlit app code │ └── app.py # Main Streamlit app script └── start_server.sh # Shell script to start both WebUI and Streamlit
+
+
+## Setup Instructions
+
+### Prerequisites
+- Ubuntu Server with GPU (Recommended: TensorDock)
+- Python 3.x
+
+### Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/xeeshanajmal/Interior-Design-On-TensorDock.git
+   cd Interior-Design-On-TensorDock
+
