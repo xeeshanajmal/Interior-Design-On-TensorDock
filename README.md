@@ -19,7 +19,7 @@ This project enables users to generate interior design images based on room type
 ## General Information
 ### Hosting
 1. I am using TensorDock to deploy but you can choose AWS, GCP or any other reliable and cost-effective platform.
-2. I am customizing my server and with  following Hardware and software specs:
+2. I customized my server and with  following Hardware and software specs:
 
 
   
