@@ -21,13 +21,15 @@ This project enables users to generate interior design images based on room type
 1. I am using TensorDock to deploy but you can choose AWS, GCP or any other reliable and cost-effective platform.
 2. I am customizing my server and with  following Hardware and software specs:
 
-  Storage: 100 GB
-  vCPUs: 8 AMD EPYC 7551P vCPUs
-  RAM: 16 GB RAM
-  GPU:1x RTX A4000 16 GB
-  Operating System:  TensorML 20.04 PyTorch
 
-
+  
+| Components        | Specs           | 
+| ------------- |:-------------:| 
+| Storage      | 100 GB | 
+| vCPUs      | 8 AMD EPYC 7551P vCPUs      |   
+| RAM | 16 GB RAM      |
+| GPU | 1x RTX A4000 16 GB      |
+| O.S | TensorML 20.04 PyTorch      |
 
 
 
